@@ -1,0 +1,35 @@
+table, th, td{
+    border:1px solid black;
+  }
+  table {
+    border-collapse:collapse;
+    width:60%;
+  }
+
+  th {
+    background-color: rgb(236, 236, 236);
+  }
+
+
+  body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+.imagen{
+  width:500px; 
+  height:auto;
+}
+
+/* Bloque de navegación */
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            text-align: center;
+        }
+        nav li {
+            display: inline;
+            margin: 10px;
+        }
