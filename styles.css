@@ -1,17 +1,17 @@
 table, th, td{
     border:1px solid black;
   }
-  table {
+table {
     border-collapse:collapse;
     width:60%;
   }
 
-  th {
+th {
     background-color: rgb(236, 236, 236);
   }
 
 
-  body {
+body {
     font-family: Arial, sans-serif;
 }
 h1 {
